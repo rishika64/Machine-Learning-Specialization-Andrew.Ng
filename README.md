@@ -3,12 +3,7 @@
 -------------------------------------------------------------------------------------------
 
 # [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#instructors)
-*This Repository Contains Solution to the Assignments of the Machine Learning Specialization from deeplearning.ai on Coursera Taught by 
-[Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
-### Disclaimer
-
-#### Anyone looking to enter the field of artificial intelligence for the first time can check out the Machine Learning Specialization offered by Coursera. You should only use the programming assignments placed in this repository as a resource and to get you out of a jam. Do not simply copy and paste the code if you are a participant in this course; doing so will not help you. Please watch every lecture video, finish the quizzes and code assignments yourself as it is comparatively simple to understand.
 -------------------------------------------------------------------------------------------
 
 ## WHAT YOU WILL LEARN
